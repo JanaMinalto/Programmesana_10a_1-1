@@ -19,6 +19,7 @@ print(5+6)
 9 Lukjanèikova Darja
 
 10 Minalto Jana
+print(4+6)
 
 11 Obrazcova Marija
 
